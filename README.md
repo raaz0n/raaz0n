@@ -22,9 +22,9 @@
 
 <p align="center">
 <!-- <a href="https://www.rajanpoudel.com.np/"></a> -->
-<a href="https://www.linkedin.com/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Rajan%20Paudel-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com//"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-rajan07-blue?style=flat-square&logo=instagram"></a>
-<a href="https://www.twitter.com/ravi84184/"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-rajan-blue?style=flat-square&logo=twitter"></a>
+<a href="https://www.linkedin.com/in/rajan-paudel-833907199//"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Rajan%20Paudel-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.instagram.com/razz_on7//"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-rajan07-blue?style=flat-square&logo=instagram"></a>
+<a href="https://twitter.com/Rajanpa37626762?t=LwEZcUF_EZ3oo8CeWvwyIQ&s=09"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-rajan-blue?style=flat-square&logo=twitter"></a>
 <a href="mailto:rajan.rp50@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-rajan.rp50@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
