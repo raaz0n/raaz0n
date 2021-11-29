@@ -4,13 +4,13 @@
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-<!-- - 🎓 &nbsp; Studying Computer Science and Mathematics at University of Massachusetts Amherst. -->
+- 🎓 &nbsp; Studying Information Technology at Pokhara University.
 - 💼 &nbsp; Working as a Android Developer.
 
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Flutter | Kotlin | Java | PHP 
+- 💻 &nbsp; Flutter | Kotlin | Java 
 - 🌐 &nbsp; HTML | CSS | JavaScript 
 - 🛢 &nbsp; MySQL |SQLite
 - 🔧 &nbsp; Git 
