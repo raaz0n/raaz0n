@@ -5,12 +5,12 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
 - 🎓 &nbsp; Studying Information Technology at Pokhara University.
-- 💼 &nbsp; Working as a Android Developer.
+- 💼 &nbsp; Working as a Flutter Developer.
 
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Flutter | Kotlin | Java 
+- 💻 &nbsp; Flutter | Kotlin | Java | Dart
 - 🌐 &nbsp; HTML | CSS | JavaScript 
 - 🛢 &nbsp; MySQL |SQLite
 - 🔧 &nbsp; Git 
