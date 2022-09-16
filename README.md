@@ -12,7 +12,7 @@
 
 - 💻 &nbsp; Flutter | Kotlin | Java | Dart
 - 🌐 &nbsp; HTML | CSS | JavaScript 
-- 🛢 &nbsp; MySQL |SQLite
+- 🛢 &nbsp; SQLite | Hive 
 - 🔧 &nbsp; Git 
 
 
