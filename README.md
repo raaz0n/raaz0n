@@ -19,7 +19,9 @@
 <br/>
 
 ![Rajan's Github stats](https://github-readme-stats.vercel.app/api?username=rajan-poudel&show_icons=true&count_private=true&theme=algolia)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rajan-poudel&layout=compact&theme=algolia)]
+<br/>
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rajan-poudel&layout=compact&theme=algolia)
 
 <h3> 🤝🏻 Connect with Me </h3>
 
