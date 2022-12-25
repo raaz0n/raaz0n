@@ -4,8 +4,8 @@
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
-- 🎓 &nbsp; Studying Information Technology at Pokhara University.
 - 💼 &nbsp; Working as a Flutter Developer.
+- 💻 &nbsp; I’m currently working with [Soori Technology]([https://www.lftechnology.com/](https://www.sooritechnology.com/))!
 
 
 <h3>🛠 Tech Stack</h3>
