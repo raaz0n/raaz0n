@@ -5,7 +5,7 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
 - 💼 &nbsp; Working as a Flutter Developer.
-- 💻 &nbsp; I’m currently working with [Soori Technology]([https://www.lftechnology.com/](https://www.sooritechnology.com/))!
+- 💻 &nbsp; I’m currently working with [Fatdog Technology](https://fatdoglabs.com/)
 
 
 <h3>🛠 Tech Stack</h3>
