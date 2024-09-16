@@ -5,13 +5,13 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
 - 💼 &nbsp; Working as a Flutter Developer.
-- 💻 &nbsp; I’m currently working with [Fatdog Technology](https://fatdoglabs.com/)
+- 💻 &nbsp; I’m currently working with [Outcode LLC](https://www.outcodesoftware.com/)
 
 
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; Flutter | SwiftUI | Kotlin | Java | Dart
-- 🌐 &nbsp; HTML | CSS | JavaScript 
+- 🌐 &nbsp; HTML | CSS | JavaScript | Node.js
 - 🛢 &nbsp; PostgresSQL | SQLite | Hive 
 - 🔧 &nbsp; Git 
 
